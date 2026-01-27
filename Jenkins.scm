@@ -1,1 +1,0 @@
-Jenkins poll scm
