@@ -29,7 +29,7 @@ pipeline {
 		sleep(5)
 		echo "Hello De Deloy 2"
  		echo "Hello De Deloy 3"
- 	stage("Check Path) {	
+ 	stage("Check Path") {	
             steps {
               sh 'pwd'
                 echo "Posisi sibuk"
