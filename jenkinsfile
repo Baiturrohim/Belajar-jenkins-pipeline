@@ -48,7 +48,7 @@ pipeline {
       }
     }
 }
-	step {
+	steps {
 	 sh 'pwd'
 	echo "Posisi sibuk"
 	}
